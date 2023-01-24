@@ -1,5 +1,5 @@
 #include "sort.h"
-
+#include <string.h>
 /**
  * swap - swap 2 element in an list
  * @head: head of list
